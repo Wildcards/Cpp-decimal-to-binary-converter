@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1349509836 source:d:\my_softwares\c++\code blocks\decimal to bi\main.cpp
+	<iostream>
+	<conio.h>
+
